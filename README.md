@@ -16,5 +16,5 @@ Mac电脑上用PP助手安装Shadowrocket
 
 连接手机在PP助手中搜索 Shadowrocket 并安装
 
-如果搜索不到Shadowrocket 那么表示下架了，直接下载 Shadowrocket.ipa 导入到下载管理中安装
+如果搜索不到Shadowrocket 那么表示下架了，直接下载 [Shadowrocket.ipa](https://dn-shimo-attachment.qbox.me/nF8GwQhW13M8HBmb/Shadowrocket-2.1.10-PP.ipa) 导入到下载管理中安装
 
